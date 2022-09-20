@@ -65,6 +65,9 @@ sendBtn.addEventListener("click", (e) => {
     }else {
       sendmail(name.value, email.value, msg.value) ;
       success();
+      name.value = "";
+      email.value = "";
+      msg.value = "";
     }
   });
 }
@@ -133,6 +136,5 @@ var swiper = new Swiper(".mySwiper", {
     prevEl: ".swiper-button-prev",
   },
 });
-
 
 
