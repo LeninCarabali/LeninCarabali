@@ -26,19 +26,19 @@ font-family: 'Rubik Iso', cursive; */
 
 
 .light-theme{
-    /* --main-color:#2c8bd8;
+    --main-color:#2c8bd8;
     --body-color:#ebdddd;
     --container-color:#9498bb;
-    --heading-color:#3490b4;
+    --heading-color:##ffffff;
     --box-color:#b8b8bd;
-    --bg-color:rgb(75, 66, 66); */
+    --bg-color:rgb(75, 66, 66);
 
-    --main-color: #541e10;
+    /* --main-color: #541e10;
     --body-color: #d1c0a7;
     --container-color: #f9f9f8;
     --heading-color: #000000;
     --box-color: #504137;
-    --bg-color: rgb(34 27 27);
+    --bg-color: rgb(34 27 27); */
 
     /* --main-color: #764d43;
     --body-color: #dfcfb6;
