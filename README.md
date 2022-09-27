@@ -2,4 +2,6 @@
 
 This is my portfolio website. 
 
-Layout by CarpoolVenoms
+HTML, CSS, Js.
+
+Layout by CarpoolVenoms, edited by me.
