@@ -28,8 +28,8 @@ font-family: 'Rubik Iso', cursive; */
 .light-theme{
     --main-color:#2c8bd8;
     --body-color:#ebdddd;
-    --container-color:#9498bb;
-    --heading-color:##ffffff;
+    --container-color:#ffffff;
+    --heading-color:#3490b4;
     --box-color:#b8b8bd;
     --bg-color:rgb(75, 66, 66);
 
